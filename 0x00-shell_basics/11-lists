@@ -1,4 +1,5 @@
 #!/bin/bash
+cwd=$(pwd)
 ls -la
 cd ..
 ls -la
