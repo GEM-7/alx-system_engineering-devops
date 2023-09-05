@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n3 iacta|tail -n 1 iacta10-no_more_js
+head -n 3 iacta|tail -n 1 iacta
